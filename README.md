@@ -1,2 +1,2 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+My name is Michael Gonsalves. I work for Chico State and I'm taking classes in Computer Science.
